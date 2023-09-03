@@ -1,8 +1,8 @@
-# CS-E4850 Computer Vision Course 2022 - Python assignments
+# CS-E4850 Computer Vision Course 2023 - Python assignments
 
-This repository contains the Jupyter notebooks and related files used in the Python programming exercises for the [CS-E4850 - Computer Vision course 2022](https://mycourses.aalto.fi/course/view.php?id=37056) at Aalto University, including (1) the actual weekly homework assignments and (2) all test images. Please, see the notebooks for more details on, e.g., submission guideline. If you need to clone this repository read the instructions in option 2 (personal Docker container) on how to clone and update a repository containing [Git submodules](https://git-scm.com/book/en/v2/Git-Tools-Submodules).
+This repository contains the Jupyter notebooks and related files used in the Python programming exercises for the [CS-E4850 - Computer Vision course 2023](https://mycourses.aalto.fi/course/view.php?id=40734) at Aalto University, including (1) the actual weekly homework assignments and (2) all test images. Please, see the notebooks for more details on, e.g., submission guideline. If you need to clone this repository read the instructions in option 2 (personal Docker container) on how to clone and update a repository containing [Git submodules](https://git-scm.com/book/en/v2/Git-Tools-Submodules).
 
-For more information, or bug reporting, feel free to contact Xiaotian Li at the standard Aalto email.
+For more information, or bug reporting, feel free to contact Iaroslav Melekhov at the standard Aalto email.
 
 ## Instructions on how to work on the assignments
 
